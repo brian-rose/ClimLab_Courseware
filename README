@@ -7,8 +7,7 @@ Spring 2014
 Brian Rose
 brose@albany.edu
 
-These all need to be updated to work with the recent reorganization 
-and packaging of the climlab code.
-And also to avoid using pylab mode.
-And to make sure all data references are to internet-visible sources.
+This version has been updated to avoid pylab mode entirely
+and to work with new climlab package.
+The 'Seasonal Cycle' notebook still needs work.
 
